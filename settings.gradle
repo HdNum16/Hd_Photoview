@@ -1,0 +1,2 @@
+rootProject.name='photoview'
+include ':app'

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">photoview</string>
+
+    <string name="title_activity_image_fullscreen">ImageFullscreenActivity</string>
+    <string name="dummy_button">Add To Favorite</string>
+    <string name="dummy_content">Have fun :></string>
+    <string name="preference_file_key">sharedPrefs</string>
+</resources>
